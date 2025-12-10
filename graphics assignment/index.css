@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+  background-color: #fff8f0;
+  text-align: center;
+}
+
+.title {
+  margin: 20px;
+  font-size: 2em;
+  color: #ff69b4;
+}
